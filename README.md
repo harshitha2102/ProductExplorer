@@ -26,7 +26,9 @@ src/
  ├── redux/
  └── services/
 ```
+## Screenshots
 
+![Home Screen](./src/assets/home.png)
 ## Installation
 
 1. Clone the repository
